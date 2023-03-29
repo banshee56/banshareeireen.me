@@ -1,12 +1,21 @@
 body {
     margin-left: 5em;
     margin-right: 5em;
-    margin-top: 3em;
+    font-family: 'Play', sans-serif;
     font-size: large;
-    color: rgba(5, 5, 5, 0.7);
-    background-color: #FAFAFA;
+    color: #fafafa;
   }
 
 img {
     border-radius: 50%;
+  }
+
+.headings {
+    font-family: 'Press Start 2P', cursive;
+}
+
+#banner {
+    width: 100%;
+    background-image: url("./images/ivan-rudoy-H1CzGhDhSAY-unsplash.jpg");
+    height: 100%;
   }
