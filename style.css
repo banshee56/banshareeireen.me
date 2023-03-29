@@ -1,0 +1,13 @@
+body {
+    color: rgba(5, 5, 5, 0.7);
+    background-color: #FAFAFA;
+  }
+
+img {
+    border-radius: 50%;
+  }
+
+.full {
+    margin-left: 5em;
+    margin-right: 5em;
+}
