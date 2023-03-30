@@ -16,6 +16,7 @@ img {
 
 #banner {
     width: 100%;
+    /* image from https://unsplash.com/photos/H1CzGhDhSAY*/  
     background-image: url("./images/ivan-rudoy-H1CzGhDhSAY-unsplash.jpg");
     height: 100%;
   }
